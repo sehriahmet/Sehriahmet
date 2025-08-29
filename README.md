@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Ahmet Sehriyaroglu
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehriahmet&label=Profile%20views&color=0e75b6&style=flat" alt="sehriahmet" /> </p>
 
-I am a Computer Science student at Middle East Technical University.
+I am a senior Computer Engineering student at Middle East Technical University.
 
 LinkedIn: https://www.linkedin.com/in/ahmetsehriyaroglu/
 
